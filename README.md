@@ -5,6 +5,7 @@ This time series analysis project models and forecasts the closing price of Tesl
 ### The analysis follows these steps:
 
 -- Loading and plotting the Tesla closing price time series data
+<img width="864" alt="Screenshot 2023-12-10 at 4 52 02 PM" src="https://github.com/omotuno/modeling_tesla_stock_closing_price/assets/65866718/d80a00ff-7ab6-4483-928f-23126aa8b55a">
 
 -- Applying a log transformation to stabilize variance
 
